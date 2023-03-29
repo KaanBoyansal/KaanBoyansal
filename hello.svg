@@ -195,12 +195,6 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Student at <a href="https://42istanbul.com.tr/">42 Network</a></li>
-          </ul>
-          <ul>
-            <li>Student at <a href="https://www.istanbul.edu.tr/tr/_">Istanbul University</a></li>
-          </ul>
-          <ul>
             <li><a href="boyansal.mkaan@gmail.com" role="button"><span class='hi'>👋</span></a></li>
           </ul>
         </section>
