@@ -19,9 +19,9 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-  <a href="https://github.com/KaanBoyansal/Minishell.">Minihell</a>
-  <a href="https://github.com/KaanBoyansal/Cub3D.">Cub3D</a>
-  <a href="https://github.com/KaanBoyansal/Push_Swap">Push_Swap</a>
+  <a href="https://github.com/KaanBoyansal/Minishell.">Minihell</a><br>
+  <a href="https://github.com/KaanBoyansal/Cub3D.">Cub3D</a><br>
+  <a href="https://github.com/KaanBoyansal/Push_Swap">Push_Swap</a><br>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaanboyansal&show_icons=true&locale=en&layout=compact" alt="kaanboyansal" /></p>
