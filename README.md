@@ -1,9 +1,9 @@
 <!-- GitHub profile README for KaanBoyansal. Place in KaanBoyansal/KaanBoyansal. -->
 <!-- Animated images and badges use external services; no workflow or token is required. -->
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Mustafa%20Kaan%20Boyansal&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%26%20AI%20Solution%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="Mustafa Kaan Boyansal — Cloud and AI Solution Engineer" />
-</p>
+<h1 align="center">Hi, I'm Mustafa Kaan Boyansal 👋</h1>
+<h3 align="center">☁️ Cloud &amp; AI Solution Engineer</h3>
+<p align="center"><strong>Azure · GitHub · AI · DevOps</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Turning+cloud+ideas+into+real-world+solutions.;Building+with+Azure%2C+AI+and+GitHub.;Automating+delivery.+Empowering+developers.;Engineering+mindset.+Mathematical+curiosity." alt="Animated introduction: building cloud, AI and developer solutions" />
@@ -123,6 +123,3 @@ Find me on [LinkedIn](https://www.linkedin.com/in/mkb35/) or explore my [reposit
 
 <p align="center"><em>Curiosity drives the learning. Engineering turns it into something useful.</em></p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=110&section=footer" alt="Blue and violet wave footer" />
-</p>
