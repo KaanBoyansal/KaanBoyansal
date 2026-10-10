@@ -1,32 +1,128 @@
-<div style="width: 100%;">
-  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fasthand&weight=600&duration=4000&pause=1000&color=0E9C91&width=435&lines=About+Me+%3A;Student+at+42+Istanbul;Student+at+Istanbul+University;Currently+learning+Data+Engineering;Hobbies+%3A;Cycling%2C+hiking%2C+fitness%2C+gaming" alt="Typing SVG" /></a>
-<h3 align="center">A passionate developer from Turkey</h3>
+<!-- GitHub profile README for KaanBoyansal. Place in KaanBoyansal/KaanBoyansal. -->
+<!-- Animated images and badges use external services; no workflow or token is required. -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanboyansal&label=Profile%20views&color=0e75b6&style=flat" alt="kaanboyansal" /> </p>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mkb35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa kaan boyansal" height="30" width="40" /></a>
-<a href="https://instagram.com/kaanboyansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaanboyansal" height="30" width="40" /></a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=Mustafa%20Kaan%20Boyansal&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%26%20AI%20Solution%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="Mustafa Kaan Boyansal — Cloud and AI Solution Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <a href="https://github.com/KaanBoyansal/Minishell.">Minihell</a><br>
-  <a href="https://github.com/KaanBoyansal/Cub3D.">Cub3D</a><br>
-  <a href="https://github.com/KaanBoyansal/Push_Swap">Push_Swap</a><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Turning+cloud+ideas+into+real-world+solutions.;Building+with+Azure%2C+AI+and+GitHub.;Automating+delivery.+Empowering+developers.;Engineering+mindset.+Mathematical+curiosity." alt="Animated introduction: building cloud, AI and developer solutions" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaanboyansal&show_icons=true&locale=en&layout=compact" alt="kaanboyansal" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mkb35/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/KaanBoyansal?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Istanbul%2C_T%C3%BCrkiye-7C3AED?style=for-the-badge" alt="Based in Istanbul, Türkiye" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaanboyansal&show_icons=true&locale=en" alt="kaanboyansal" /></p>
+<h3 align="center">Cloud infrastructure · Applied AI · Developer experience</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaanboyansal&" alt="kaanboyansal" /></p>
+<p align="center">
+  I connect cloud engineering, intelligent applications and developer workflows<br />
+  to turn technical challenges into practical, maintainable solutions.
+</p>
 
+---
+
+## 👋 A little about me
+
+I'm **Mustafa Kaan Boyansal**, a **Cloud & AI Solution Engineer at Nephos Systems** and a software engineer with a background in mathematics studies.
+
+My work centers on the **Microsoft ecosystem**, with a particular interest in Azure, GitHub Enterprise, GitHub Copilot and automation. I enjoy understanding how systems work, simplifying complex problems and building tools that make everyday engineering easier.
+
+- ☁️ Working on cloud infrastructure, identity and application delivery.
+- 🤖 Helping teams adopt AI-assisted development with GitHub Copilot.
+- ⚙️ Automating builds, deployments and repetitive engineering tasks.
+- 📊 Turning usage and cost data into useful dashboards.
+- 🧮 Bringing mathematical curiosity to software and AI problems.
+
+## 🧭 Where I focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & Identity</h3>
+      <p>Azure infrastructure, Microsoft Entra ID, access management and container delivery.</p>
+      <p><strong>Making systems easier to operate and access securely.</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI & Developer Experience</h3>
+      <p>GitHub Copilot adoption, enterprise setup, AI-assisted workflows and usage visibility.</p>
+      <p><strong>Helping teams get practical value from AI.</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ DevOps & Automation</h3>
+      <p>GitHub Actions, CI/CD pipelines, Docker and scripting for repeatable delivery.</p>
+      <p><strong>Turning manual steps into dependable workflows.</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Software & Insights</h3>
+      <p>Applications, API integrations and dashboards that connect engineering with operational needs.</p>
+      <p><strong>Making technical data useful for decisions.</strong></p>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Tools I work with
+
+**Cloud & platform**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-5E5EDE?style=for-the-badge" alt="Microsoft Entra ID" />
+  <img src="https://img.shields.io/badge/GitHub_Enterprise-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Enterprise" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+**Delivery & automation**
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" alt="PowerShell" />
+</p>
+
+**Application development**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 🚀 A project I've been building
+
+### GitHub Copilot Metrics Dashboard
+
+A dashboard that brings **Copilot adoption, usage, billing and budget visibility** into one place.
+
+It helps teams understand how Copilot is being used, follow AI credit consumption and make more informed decisions about licenses and budgets.
+
+**Focus:** API integration · Usage analytics · Cost visibility · Role-based access
+
+## 🏅 Certifications & Exams
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-0078D4?style=for-the-badge" alt="Microsoft Certified: Azure Administrator Associate" />
+  <img src="https://img.shields.io/badge/Exam-AZ--104-38BDF8?style=for-the-badge" alt="Exam AZ-104" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AZ--400-Designing_and_Implementing_Microsoft_DevOps_Solutions-7C3AED?style=for-the-badge" alt="AZ-400: Designing and Implementing Microsoft DevOps Solutions — passed" />
+</p>
+
+## 💬 Let's connect
+
+I'm always happy to exchange ideas about **Azure, GitHub Copilot, developer productivity, automation and applied AI**.
+
+Find me on [LinkedIn](https://www.linkedin.com/in/mkb35/) or explore my [repositories](https://github.com/KaanBoyansal?tab=repositories).
+
+<p align="center"><em>Curiosity drives the learning. Engineering turns it into something useful.</em></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=110&section=footer" alt="Blue and violet wave footer" />
+</p>
