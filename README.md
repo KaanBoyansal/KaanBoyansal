@@ -6,7 +6,7 @@
 <p align="center"><strong>Azure · GitHub · AI · DevOps</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Turning+cloud+ideas+into+real-world+solutions.;Building+with+Azure%2C+AI+and+GitHub.;Automating+delivery.+Empowering+developers.;Engineering+mindset.+Mathematical+curiosity." alt="Animated introduction: building cloud, AI and developer solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=780&height=55&lines=Turning+cloud+ideas+into+real-world+solutions.;Building+AI+applications+that+solve+real+problems.;Connecting+LLMs%2C+APIs+and+business+workflows.;Automating+delivery.+Empowering+developers.;Engineering+mindset.+Mathematical+curiosity." alt="Animated introduction: cloud solutions, AI applications, LLM integrations and developer workflows" />
 </p>
 
 <p align="center">
@@ -28,9 +28,13 @@
 
 I'm **Mustafa Kaan Boyansal**, a **Cloud & AI Solution Engineer at Nephos Systems** and a software engineer with a background in mathematics studies.
 
-My work centers on the **Microsoft ecosystem**, with a particular interest in Azure, GitHub Enterprise, GitHub Copilot and automation. I enjoy understanding how systems work, simplifying complex problems and building tools that make everyday engineering easier.
+I build **cloud and AI solutions** that connect software with real business needs. My work includes developing **AI-powered applications**, integrating **large language models (LLMs)** with APIs and existing systems, and designing workflows that turn information into useful actions.
+
+Within the **Microsoft ecosystem**, I also work with Azure, GitHub Enterprise, GitHub Copilot and automation. I enjoy understanding how systems work, simplifying complex problems and taking ideas from an initial prototype to a maintainable application.
 
 - ☁️ Working on cloud infrastructure, identity and application delivery.
+- 🧠 Developing AI-powered applications and solutions for business workflows.
+- 🔗 Connecting LLMs, application data and APIs to build useful AI experiences.
 - 🤖 Helping teams adopt AI-assisted development with GitHub Copilot.
 - ⚙️ Automating builds, deployments and repetitive engineering tasks.
 - 📊 Turning usage and cost data into useful dashboards.
@@ -46,9 +50,9 @@ My work centers on the **Microsoft ecosystem**, with a particular interest in Az
       <p><strong>Making systems easier to operate and access securely.</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 AI & Developer Experience</h3>
-      <p>GitHub Copilot adoption, enterprise setup, AI-assisted workflows and usage visibility.</p>
-      <p><strong>Helping teams get practical value from AI.</strong></p>
+      <h3>🧠 AI Applications & Solutions</h3>
+      <p>AI-powered applications, LLM integrations and agent workflows connected to APIs, documents and business systems.</p>
+      <p><strong>Turning business needs into practical AI solutions.</strong></p>
     </td>
   </tr>
   <tr>
@@ -63,7 +67,26 @@ My work centers on the **Microsoft ecosystem**, with a particular interest in Az
       <p><strong>Making technical data useful for decisions.</strong></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Developer Experience</h3>
+      <p>GitHub Enterprise setup, Copilot adoption, AI-assisted development and usage visibility.</p>
+      <p><strong>Helping engineering teams work more effectively.</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 AI Integration & Delivery</h3>
+      <p>Connecting AI capabilities to application backends, handling long-running tasks and building reliable API workflows.</p>
+      <p><strong>Making AI work within everyday applications.</strong></p>
+    </td>
+  </tr>
 </table>
+
+## 🧠 What I build with AI
+
+- **AI-powered applications** that help users work with documents and information.
+- **LLM and API integrations** that connect AI capabilities to existing software and business systems.
+- **Agent workflows and automation** that support multi-step tasks and turn user requests into actions.
+- **Cloud-backed AI solutions** with attention to access control, validation, error handling and maintainability.
 
 ## 🛠️ Tools I work with
 
@@ -118,7 +141,7 @@ My work centers on the **Microsoft ecosystem**, with a particular interest in Az
 
 ## 💬 Let's connect
 
-I'm always happy to exchange ideas about **Azure, GitHub Copilot, developer productivity, automation and applied AI**.
+I'm always happy to exchange ideas about **AI application development, LLM integrations, agent workflows, Azure, GitHub Copilot and automation**.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/mkb35/) or explore my [repositories](https://github.com/KaanBoyansal?tab=repositories).
 
