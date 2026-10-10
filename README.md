@@ -99,26 +99,22 @@ My work centers on the **Microsoft ecosystem**, with a particular interest in Az
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 🚀 A project I've been building
-
-### GitHub Copilot Metrics Dashboard
-
-A dashboard that brings **Copilot adoption, usage, billing and budget visibility** into one place.
-
-It helps teams understand how Copilot is being used, follow AI credit consumption and make more informed decisions about licenses and budgets.
-
-**Focus:** API integration · Usage analytics · Cost visibility · Role-based access
-
-## 🏅 Certifications & Exams
+## 🏅 Microsoft Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-0078D4?style=for-the-badge" alt="Microsoft Certified: Azure Administrator Associate" />
+  <a href="https://learn.microsoft.com/en-us/users/mustafakaanboyansalnephosaiintern-0562/credentials/91f9d067eb3e943c"><img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-0078D4?style=for-the-badge" alt="Verify Microsoft Certified: Azure Administrator Associate" /></a>
   <img src="https://img.shields.io/badge/Exam-AZ--104-38BDF8?style=for-the-badge" alt="Exam AZ-104" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AZ--400-Designing_and_Implementing_Microsoft_DevOps_Solutions-7C3AED?style=for-the-badge" alt="AZ-400: Designing and Implementing Microsoft DevOps Solutions — passed" />
+  <a href="https://learn.microsoft.com/en-us/users/mustafakaanboyansalnephosaiintern-0562/credentials/164856ad5d45013b"><img src="https://img.shields.io/badge/Microsoft_Certified-DevOps_Engineer_Expert-7C3AED?style=for-the-badge" alt="Verify Microsoft Certified: DevOps Engineer Expert" /></a>
+  <img src="https://img.shields.io/badge/Exam-AZ--400-38BDF8?style=for-the-badge" alt="Exam AZ-400" />
 </p>
+
+| Certification | Exam | Credential |
+| :--- | :---: | :---: |
+| **Microsoft Certified: Azure Administrator Associate** | AZ-104 | [Verify ↗](https://learn.microsoft.com/en-us/users/mustafakaanboyansalnephosaiintern-0562/credentials/91f9d067eb3e943c) |
+| **Microsoft Certified: DevOps Engineer Expert** | AZ-400 | [Verify ↗](https://learn.microsoft.com/en-us/users/mustafakaanboyansalnephosaiintern-0562/credentials/164856ad5d45013b) |
 
 ## 💬 Let's connect
 
